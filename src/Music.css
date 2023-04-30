@@ -1,0 +1,24 @@
+.option {
+
+    transition-duration: 0.4s;
+    border-radius: 20px;
+  }
+  .music1{
+    background-color:rgb(252, 193, 203);
+    color: rgb(96, 120, 145);
+    height: 200px;
+    width: 250px;
+  }
+  
+  .music1:hover {
+    color: rgb(252, 193, 203);
+    background-color: rgb(96, 120, 145);
+  }
+  
+  .musicimage{
+    height: 50px;
+  }
+  
+  .musicimage:hover {
+    height: 60px;
+  }
